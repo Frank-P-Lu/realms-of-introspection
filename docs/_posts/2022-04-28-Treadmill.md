@@ -2,7 +2,7 @@
 layout: post
 title:  "The treadmill of doom"
 date:   2022-04-28
-author: MrRoger
+author: IdleWalrus
 ---
 I was messaging Reagan yesterday about so called "career progression" thing. At best, it is a treadmill where you eventually get a bit more stuff. At worst, it is a total scam.
 
